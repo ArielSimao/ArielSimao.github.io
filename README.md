@@ -1,5 +1,5 @@
 # ArielSimao.github.io
 
-Portfólio e CV Ariel Simao
+CV Online Ariel Simao
 
-www.arielsimao.github.io
+arielsimao.github.io
