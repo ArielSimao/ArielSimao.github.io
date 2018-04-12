@@ -2,4 +2,6 @@
 
 CV Online Ariel Simao
 
-arielsimao.github.io
+https://arielsimao.github.io/
+
+arielsimao.github.io/
