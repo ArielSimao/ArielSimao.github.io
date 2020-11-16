@@ -2,4 +2,4 @@
 
 Curriculum Vitae Online Ariel Simão De Oliveira
 
-https://arielsimaodeoliveira.github.io/
+https://arielsimao.github.io/
