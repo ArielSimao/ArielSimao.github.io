@@ -1,5 +1,5 @@
-# ArielSimao.github.io
+# ArielSimaoDeOliveira.github.io
 
-CV Online Ariel Simao
+Curriculum Vitae Online Ariel Simão De Oliveira
 
-https://arielsimao.github.io/
+https://arielsimaodeoliveira.github.io/
